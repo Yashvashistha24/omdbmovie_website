@@ -12,7 +12,8 @@ Step 3 - Now user can click on the log out button to get out of that particular 
 
 The user name to access the login page are -
 
-username - yash  password - yash123
+username - yash  
+password - yash123
 
 In this Assignment i used HTML,CSS, Javascript, PHP and MySQL.
 
