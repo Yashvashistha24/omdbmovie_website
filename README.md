@@ -14,6 +14,7 @@ The user name to access the login page are -
 
 username - yash  
 password - yash123
+Link of the website - http://omdbmovie.infinityfreeapp.com/index.php?i=1
 
 In this Assignment i used HTML,CSS, Javascript, PHP and MySQL.
 
