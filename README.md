@@ -1,4 +1,4 @@
- This is a given assignment by Wolkus technology solution pvt. ltd. created by Yash Vashistha.
+
  Steps for the given project to access - 
 
 The index.php contain the front page of the website which will allow user to enter username and password to enter, after that the authentic user will be successfully login into the omdb api page where user can see that their is a search bar from which the user can type any movie name to fetch the information about the movie and after that user can log out from that page.
